@@ -1,6 +1,6 @@
 # Logistic Regression: Predicting High-Income Earners
 
-## Introduction
+## Project Description
 
 Income prediction is a significant area of study in economics and machine learning. It involved predicting an individual's income level based on various demographic and socioeconomic factors. This is crucial for policy-making, resource allocation and understanding economic disparities. 
 
